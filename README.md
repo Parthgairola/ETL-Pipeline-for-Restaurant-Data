@@ -1,4 +1,4 @@
-# ETL-Pipeline-for-Restaurant-Data-using-Python
+# ETL-Pipeline-for-Restaurant-Data
 
 ## Business Problem
 A food delivery company wants to identify high-performing restaurants and understand what makes them successful. However, the raw restaurant dataset contains missing values, duplicate records,  and unnecessary columns, making it difficult to analyze. The goal of this project was to build an ETL pipeline that cleans, transforms, and loads restaurant data into a PostgreSQL database, providing stakeholders with a reliable dataset for restaurant performance analysis and business decision-making.
