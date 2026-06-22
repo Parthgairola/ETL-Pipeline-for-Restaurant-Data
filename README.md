@@ -5,7 +5,7 @@ A food delivery company wants to identify high-performing restaurants and unders
 
 ## Dataset and Tools Used
 https://www.kaggle.com/datasets/rishikeshkonapure/zomato <br>
-SQL • Power BI
+Python
 
 ## Workflow Diagram
 <img width="1121" height="557" alt="image" src="https://github.com/user-attachments/assets/eb5605e8-1b8c-443b-94d6-43db7edf560d" />
